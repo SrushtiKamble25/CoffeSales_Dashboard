@@ -61,7 +61,10 @@ Coffee shop managers often face challenges in tracking sales performance, unders
 ### HERE IS THE IMAGE OF DASHBOARD
 ![Image](https://github.com/user-attachments/assets/13d302f2-bf43-42dc-a963-80b37955afd5)
 
+### TOOLTIP OF DASHBOARD 
+After we hover on the day in the calender we will display a tooltip as:
 
+![Image](https://github.com/user-attachments/assets/8d9a1782-c4fa-4924-b6ca-1b75c12ed556)
 
 ## Conclusion
 So, I made this Coffee Shop Sales Dashboard in Power BI to analyze sales trends, product performance, and store profitability. The dashboard reveals that morning hours (8 AM - 11 AM) drive the highest sales, with coffee and tea as the top-selling products. Locations like Hell’s Kitchen and Astoria perform well, while some stores need better marketing strategies. With a 20.3% increase in total sales, I identified opportunities to boost growth through targeted promotions, combo deals, and optimized staffing. This dashboard helps businesses make data-driven decisions to maximize efficiency and profitability.  
